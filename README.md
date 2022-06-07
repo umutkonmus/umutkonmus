@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @umutkonmus
 - 👀 I’m interested in everythink lol.
-- 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... Imm... You can't reach me.
 
