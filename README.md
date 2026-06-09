@@ -4,7 +4,7 @@
 
 I build iOS apps end-to-end with Swift and bring 5+ years of professional backend experience (.NET) to everything I ship. I care about clean architecture, honest engineering, and products people actually use.
 
-- 📱 Published **[Lissandr](https://github.com/umutkonmus/Lissandr)** on the App Store — a game deals tracker built with UIKit + VIPER
+- 📱 Published **[Lissandr](https://github.com/umutkonmus/Lissandr)** on the **[App Store](https://apps.apple.com/tr/app/lissandr/id6754469060)** — a game deals tracker built with UIKit + VIPER
 - 🛠️ Currently shipping **Welet** — a couples expense-sharing app (Core Data + CloudKit sync, CKShare-based sharing)
 - 🌐 Open-source contributor to **[NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)** ([PR #5224](https://github.com/Ranchero-Software/NetNewsWire/pull/5224))
 
@@ -14,8 +14,7 @@ I build iOS apps end-to-end with Swift and bring 5+ years of professional backen
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Lissandr](https://github.com/umutkonmus/Lissandr) | PC game discount tracker with price alerts, on the App Store | Swift · UIKit · SnapKit · VIPER · CheapShark API |
-| **Welet** *(in development)* | Shared expense & debt tracking for couples, with cross-device sharing | Swift · UIKit · Core Data · CloudKit · CKShare |
+| [Lissandr](https://github.com/umutkonmus/Lissandr) | PC game discount tracker with price alerts — [on the App Store](https://apps.apple.com/tr/app/lissandr/id6754469060) | Swift · UIKit · SnapKit · VIPER · CheapShark API || **Welet** *(in development)* | Shared expense & debt tracking for couples, with cross-device sharing | Swift · UIKit · Core Data · CloudKit · CKShare |
 | [GraySky](https://github.com/umutkonmus/GraySky) | Text-based social media app | Swift · Firebase |
 | [Swipy](https://github.com/umutkonmus/Swipy) | Random photo discovery via the Unsplash API | Swift · UIKit |
 | [GymNote](https://github.com/umutkonmus/GymNote) | Workout progress tracking | Swift |
