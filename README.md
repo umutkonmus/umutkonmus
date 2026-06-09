@@ -4,6 +4,7 @@
 
 I build iOS apps end-to-end with Swift and bring 5+ years of professional backend experience (.NET) to everything I ship. I care about clean architecture, honest engineering, and products people actually use.
 
+- ⚙️ 5+ years building production backend systems with **.NET Core** — industrial integrations, REST APIs, ERP workflows
 - 📱 Published **[Lissandr](https://github.com/umutkonmus/Lissandr)** on the **[App Store](https://apps.apple.com/tr/app/lissandr/id6754469060)** — a game deals tracker built with UIKit + VIPER
 - 🛠️ Currently shipping **Welet** — a couples expense-sharing app (Core Data + CloudKit sync, CKShare-based sharing)
 - 🌐 Open-source contributor to **[NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)** ([PR #5224](https://github.com/Ranchero-Software/NetNewsWire/pull/5224))
